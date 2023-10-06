@@ -68,6 +68,12 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
         ["marlon brando", "al pacino", "james caan", "robert duvall", "diane keaton"],
     ),
     (
+        "barbie",
+        "greta gerwig",
+        2023,
+        ["margo robbey", "ryan gosling", "will ferrell", "emma mackey", "simu liu"],
+    ),
+    (
         "an american in paris",
         "vincente minnelli",
         1952,
